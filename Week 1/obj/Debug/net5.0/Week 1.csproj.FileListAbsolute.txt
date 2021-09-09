@@ -1,0 +1,16 @@
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\obj\Debug\net5.0\Week 1.csproj.AssemblyReference.cache
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\obj\Debug\net5.0\Week 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\obj\Debug\net5.0\Week 1.AssemblyInfoInputs.cache
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\obj\Debug\net5.0\Week 1.AssemblyInfo.cs
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\obj\Debug\net5.0\Week 1.csproj.CoreCompileInputs.cache
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\bin\Debug\net5.0\Week 1.exe
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\bin\Debug\net5.0\Week 1.deps.json
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\bin\Debug\net5.0\Week 1.runtimeconfig.json
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\bin\Debug\net5.0\Week 1.runtimeconfig.dev.json
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\bin\Debug\net5.0\Week 1.dll
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\bin\Debug\net5.0\ref\Week 1.dll
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\bin\Debug\net5.0\Week 1.pdb
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\obj\Debug\net5.0\Week 1.dll
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\obj\Debug\net5.0\ref\Week 1.dll
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\obj\Debug\net5.0\Week 1.pdb
+C:\Users\Electric_Recon\source\repos\Revature\Core C#\Weekly Challenges\Week 1\obj\Debug\net5.0\Week 1.genruntimeconfig.cache
